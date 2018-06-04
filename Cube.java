@@ -14,6 +14,9 @@ public class Cube
 		volume=Math.pow(len,3);
 		System.out.println("Volume : "+volume);
 }
+	public void getLength(){
+		System.out.println("Length : "+len);
+	}
 	
 	public static void main(String args[]){
 		Cube c=new Cube(10);
