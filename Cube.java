@@ -20,8 +20,8 @@ public class Cube
 	
 	public static void main(String args[]){
 		Cube c=new Cube(10);
-		c.getArea();
-		c.getVolume();
+		c.getArea();//get area from Cube function
+		c.getVolume(); //get Volue from cube function
 }
 
 }
