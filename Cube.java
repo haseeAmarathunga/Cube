@@ -23,5 +23,5 @@ public class Cube
 		c.getArea();//get area from Cube function
 		c.getVolume(); //get Volue from cube function
 }
-
+//Hasee AMarathunga
 }
